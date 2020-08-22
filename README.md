@@ -4,7 +4,7 @@
 * [Changed sounds](#changed-sounds)
 * [Installation](#installation)
 * [Folder Structure](#folder-structure)
-* [pak_01_dir.vpk](#pak_01_dir.vpk)
+* [pak01_dir.vpk](#pak01_dir.vpk)
 
 ## Changed Sounds
 
@@ -16,13 +16,13 @@
  2. Move 'game' folder to Dota 2 directory (e.g. C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta)
 
 ## Folder Structure
-***customsounds** folder contains pak_01_dir.vpk this contains overwritten files for changing the chat wheel text/sounds*
+***customsounds** folder contains pak01_dir.vpk this contains overwritten files for changing the chat wheel text/sounds*
 ***dota** folder contains gameinfo.gi - This includes the following additional lines:*
 
     Game				customsounds
     Mod					customsounds
 
-## pak_01_dir.vpk
+## pak01_dir.vpk
 
 ### resource/localization
 
